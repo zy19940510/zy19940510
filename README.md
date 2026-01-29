@@ -49,25 +49,6 @@ AI-based Twitter monitoring system that automatically fetches For You recommenda
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  📫 <strong>Email:</strong> <a href="mailto:nicejerry666@gmail.com">nicejerry666@gmail.com</a>
-  <br/>
-  💻 <strong>GitHub:</strong> <a href="https://github.com/zy19940510">@zy19940510</a>
-</p>
-
-<p align="center">
-  <a href="mailto:nicejerry666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicejerry666@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/zy19940510">
-    <img src="https://img.shields.io/badge/GitHub-zy19940510-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zy19940510&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
