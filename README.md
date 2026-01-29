@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zy19940510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy19940510&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zy19940510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zy19940510&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zy19940510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zy19940510&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zy19940510&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zy19940510&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/zy19940510/twitter-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zy19940510&repo=twitter-monitor&theme=tokyonight&hide_border=true" alt="Twitter Monitor" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zy19940510&repo=twitter-monitor&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Twitter Monitor" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zy19940510&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zy19940510&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
 </p>
 
 ---
