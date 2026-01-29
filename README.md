@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from China 🇨🇳</h3>
 
 <p align="center">
-  <i>Full Stack Developer | AI & LLM Enthusiast | Open Source Contributor</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+LLM+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
