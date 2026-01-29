@@ -49,18 +49,6 @@ AI-based Twitter monitoring system that automatically fetches For You recommenda
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=zy19940510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zy19940510&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
